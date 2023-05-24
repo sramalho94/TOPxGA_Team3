@@ -82,6 +82,36 @@
 
 ---
 
+## Meeting Times
+
+---
+
+- Mondays
+
+- 11:30 AM EST
+
+- Wednesdays and Fridays
+
+- 10:00 AM EST
+
+### Please reach out at least a day ahead of time if you have a scheduling conflict, I'm always willing to accomodate scheduling changes
+
+---
+
+## Sprints
+
+---
+
+### 1. Mini Project
+
+#### A mini project to improve our skills with the tech stach
+
+#### Due Date : Wed May 24th EOD
+
+#### Please reach out if you can't make the deadline
+
+---
+
 ## Meeting Summaries
 
 ---
