@@ -129,6 +129,13 @@
 - Wed May 24th
 
   - Nativewind TypeScript Move DB code along
+  - If you know any devs experience with React-Native, let me know
+  - Friday will be another recap/presentation meeting
+  - We have until next Friday, June 2nd to get in as much practice as we can
+  - Next steps will include, learning how to incorporate JWT and Bcrypt
+  - We will also be doing a code along for our back-end, including a Jest lesson
+  - If you haven't presented your mini project or sent me a link to your github repo, please do so
+  - Reach out if you have any issues or concerns, we all learn at our own pace and have outside obligations
 
 ---
 
