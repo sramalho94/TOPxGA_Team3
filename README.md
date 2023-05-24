@@ -133,7 +133,7 @@
   - Friday will be another recap/presentation meeting
   - We have until next Friday, June 2nd to get in as much practice as we can
   - Next steps will include, learning how to incorporate JWT and Bcrypt
-  - We will also be doing a code along for our back-end, including a Jest lesson
+  - We will also be doing a code along for our back-end, including a Jest lesson next week
   - If you haven't presented your mini project or sent me a link to your github repo, please do so
   - Reach out if you have any issues or concerns, we all learn at our own pace and have outside obligations
 
