@@ -48,6 +48,11 @@
   - email: sarvornek@gmail.com
   - github: sornekian
 
+- Alex Grimes
+
+  - email: alexgrimes23@gmail.com
+  - github: agrimes23
+
 - Jeremy Harrell
 
   - email: jeremy.d.harrell@gmail.com
