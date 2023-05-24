@@ -1,0 +1,112 @@
+# GAxTOP Group 3
+
+## TOP 2023
+
+![image](https://opportunity.census.gov/assets/img/TOP-logo.png)
+
+---
+
+## **_Description_**
+
+---
+
+#### This README will be a catchall source of info for our team. It includes our contact information, tech stack, and schedule
+
+---
+
+## Our Dev Team
+
+---
+
+- Ben Savary
+
+  - email: rbsavary88@gmail.com
+  - github: rbsavary
+
+- Anna Druzhinina
+
+  - email: anna@rbcd.org
+  - github: annadruzhinina
+
+- Anchi Chen
+
+  - email: anchichenusa@gmail.com
+  - github: chenannchi
+
+- Kayisha Ulysse
+
+  - email: ulyssekayisha@gmail.com
+  - github: kayishau
+
+- Avi Patel
+
+  - email: avi.patel@hotmail.com
+  - github: patel-avi
+
+- Sarven Ornekian
+
+  - email: sarvornek@gmail.com
+  - github: sornekian
+
+- Jeremy Harrell
+
+  - email: jeremy.d.harrell@gmail.com
+  - github: wolfy1313
+
+- Stephan D Ramalho
+  - email: stephanramalho@gmail.com
+  - github: sramalho94
+
+---
+
+## Tech Stack
+
+---
+
+- Front-End
+
+  - React-Native cli
+  - TypeScript
+  - Nativewindcss
+
+- Back-End
+  - node.js
+  - express.js
+  - Sequelize
+  - PostgreSQL
+
+---
+
+## Meeting Summaries
+
+---
+
+- Mon May 22th
+
+  - Extension of deadline for mini project
+  - [MiniProjectRepo](https://github.com/sramalho94/TopGroup3-ReactNative)
+  - Set up Meeting times:
+    - Mon: 11:30 AM
+    - Wed & Fri: 10 AM
+
+- Wed May 24th
+
+  - Nativewind TypeScript Move DB code along
+
+---
+
+# Resources
+
+---
+
+### [ZoomLink](https://us06web.zoom.us/j/4886078487)
+
+### [SettingUptheDevEnv](https://reactnative.dev/docs/environment-setup)
+
+### [React-NativeDocs](https://reactnative.dev/docs/environment-setup)
+
+### [Tailwind-Cheatsheet](https://umeshmk.github.io/Tailwindcss-cheatsheet/)
+
+### [NativewindDocs](https://www.nativewind.dev/quick-starts/react-native-cli)
+
+### [React-NavigationDocs](https://reactnavigation.org/docs/getting-started/)
