@@ -88,11 +88,11 @@
 
 - Mondays
 
-- 11:30 AM EST
+  - 11:30 AM EST
 
 - Wednesdays and Fridays
 
-- 10:00 AM EST
+  - 10:00 AM EST
 
 ### Please reach out at least a day ahead of time if you have a scheduling conflict, I'm always willing to accomodate scheduling changes
 
