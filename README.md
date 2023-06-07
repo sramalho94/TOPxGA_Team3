@@ -138,6 +138,12 @@
   - Reach out if you have any issues or concerns, we all learn at our own pace and have outside obligations
   - [OMDTypeScriptRepo](https://github.com/sramalho94/TypeScript_OMBD)
 
+- Fri June 9th
+
+  - During this meeting we did a step by step tutorial for getting a model, controllers, routes, and tests built out. You can find the recording on the google drive.
+  - We will be using this exact workflow to accomplish deliverables for the backend of our project.
+  - Next week will be another review week
+
 ---
 
 # Resources
