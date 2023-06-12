@@ -137,6 +137,20 @@
   - If you haven't presented your mini project or sent me a link to your github repo, please do so
   - Reach out if you have any issues or concerns, we all learn at our own pace and have outside obligations
   - [OMDTypeScriptRepo](https://github.com/sramalho94/TypeScript_OMBD)
+  - Test Change
+
+- Fri May 26th
+
+  - This meeting marked the end of our mini project sprint. I hope everyone feels more comfortable with out frontend stack, please reach out if you have any questions or concerns.
+  - Starting next week we will be moving on to reviewing our backend stack.
+  - Thank you to everyone who presented their mini projects!
+
+Wed May 31st
+
+- We began our dive into postgres,sequelize, and Jest with a code along that illustrates the basic concepts of unit testing.
+- The link to the repository is:
+  - [JestCodeAlong](https://github.com/sramalho94/top3backtest)
+- If you have the time feel free to play around with the test file, or build out your own models and controllers and make tests for those.
 
 - Fri June 9th
 
@@ -167,3 +181,7 @@
 ### [NativewindDocs](https://www.nativewind.dev/quick-starts/react-native-cli)
 
 ### [React-NavigationDocs](https://reactnavigation.org/docs/getting-started/)
+
+### [Sequelize-Docs](https://sequelize.org/)
+
+## [Jest-Docs]()
