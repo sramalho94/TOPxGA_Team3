@@ -155,6 +155,8 @@
 - Fri June 9th
 
   - During this meeting we did a step by step tutorial for getting a model, controllers, routes, and tests built out. You can find the recording on the google drive.
+  - Here is the link to the Auth Jest Repo
+    - [Auth_Jest](https://github.com/sramalho94/Auth_Jest_Test)
   - We will be using this exact workflow to accomplish deliverables for the backend of our project.
   - Next week will be another review week
 
