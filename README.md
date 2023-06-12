@@ -144,6 +144,10 @@
   - We will be using this exact workflow to accomplish deliverables for the backend of our project.
   - Next week will be another review week
 
+- Mon June 12th
+
+  - For this meeting we discussed how comfortable the team was with the tech stack. This week will be another review week, so please come with questions if you need clarification about anything.
+
 ---
 
 # Resources
