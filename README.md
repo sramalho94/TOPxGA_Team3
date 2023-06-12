@@ -147,10 +147,10 @@
 
 - Wed May 31st
 
-- We began our dive into postgres,sequelize, and Jest with a code along that illustrates the basic concepts of unit testing.
-- The link to the repository is:
-  - [JestCodeAlong](https://github.com/sramalho94/top3backtest)
-- If you have the time feel free to play around with the test file, or build out your own models and controllers and make tests for those.
+  - We began our dive into postgres,sequelize, and Jest with a code along that illustrates the basic concepts of unit testing.
+  - The link to the repository is:
+    - [JestCodeAlong](https://github.com/sramalho94/top3backtest)
+  - If you have the time feel free to play around with the test file, or build out your own models and controllers and make tests for those.
 
 - Fri June 9th
 
