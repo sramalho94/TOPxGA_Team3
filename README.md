@@ -145,7 +145,7 @@
   - Starting next week we will be moving on to reviewing our backend stack.
   - Thank you to everyone who presented their mini projects!
 
-Wed May 31st
+- Wed May 31st
 
 - We began our dive into postgres,sequelize, and Jest with a code along that illustrates the basic concepts of unit testing.
 - The link to the repository is:
