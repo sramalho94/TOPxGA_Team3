@@ -164,6 +164,19 @@
 
   - For this meeting we discussed how comfortable the team was with the tech stack. This week will be another review week, so please come with questions if you need clarification about anything.
 
+- Wed June 14th
+
+  - For this meeting we did a code along that incorporates JWT and React-Native-Keychain
+  - We will be using these technologies for our project, so please familiarize yourself wit using them
+  - [Auth_React-N_Repo](https://github.com/sramalho94/ReactNativeAUTH)
+  - We created Auth methods that allow users to register, login, and logout
+  - This project was designed be used along with our Auth_Jest Backend Project
+
+    - [Auth_Jest_Backend](https://github.com/sramalho94/Auth_Jest_Test)
+
+  - Please review the code for the frontend, and make sure you are able to register, login, and logout
+  - Feel free to reach out if you have any questions
+
 ---
 
 # Resources
