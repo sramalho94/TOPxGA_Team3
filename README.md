@@ -177,7 +177,7 @@
   - Please review the code for the frontend, and make sure you are able to register, login, and logout
   - Feel free to reach out if you have any questions
 
-  - [RecordingPart1](https://drive.google.com/drive/u/2/folders/1p-dxb0lSyd0BJQB-uSrrx4rHg0U2M2EQ)
+- [RecordingPart1](https://drive.google.com/drive/u/2/folders/1p-dxb0lSyd0BJQB-uSrrx4rHg0U2M2EQ)
 
 - [RecordingPart2](https://drive.google.com/drive/u/2/folders/1tKTA-wpkCkMtU8wDOv686Sry6nfY3j0s)
 
