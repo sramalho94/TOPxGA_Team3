@@ -181,6 +181,26 @@
 
   - [RecordingPart2](https://drive.google.com/drive/u/2/folders/1tKTA-wpkCkMtU8wDOv686Sry6nfY3j0s)
 
+- June 15th Leetcode Meeting
+
+  - [Recording](https://drive.google.com/drive/u/2/folders/15npjNdGeC6AApsdBz4jbUhFHbOBrWm02)
+
+  - During this meeting we learned about the Exclusive Or Bitwise Operator, here is some helpful documentation:
+
+    - [ExclusiveOrDocs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR)
+
+  - We practicing balancing trying to get the most efficient solution possible while also ensuring we don't overcomplicate things and still get a correct solution
+
+  - We also learned about initializing number variables using `Infinity` and `Number.MAX_NUMBER`
+
+  - The leetcodes we completed were:
+
+    - [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+
+    - [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)
+
+    - [136](https://leetcode.com/problems/single-number/)
+
 ---
 
 # Resources
