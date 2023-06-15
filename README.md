@@ -181,7 +181,7 @@
 
   - [RecordingPart2](https://drive.google.com/drive/u/2/folders/1tKTA-wpkCkMtU8wDOv686Sry6nfY3j0s)
 
-- June 15th Leetcode Meeting
+- Thurs June 15th Leetcode Meeting
 
   - [Recording](https://drive.google.com/drive/u/2/folders/15npjNdGeC6AApsdBz4jbUhFHbOBrWm02)
 
@@ -189,9 +189,11 @@
 
     - [ExclusiveOrDocs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR)
 
-  - We practicing balancing trying to get the most efficient solution possible while also ensuring we don't overcomplicate things and still get a correct solution
+  - We practiced balancing trying to get the most efficient solution possible while also ensuring we don't overcomplicate things and still get a correct answer
 
   - We also learned about initializing number variables using `Infinity` and `Number.MAX_NUMBER`
+
+  - We briefly touched upon `Binary Search` and the `Binary Search Tree` data structure
 
   - The leetcodes we completed were:
 
