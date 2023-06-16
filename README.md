@@ -203,6 +203,19 @@
 
     - [136](https://leetcode.com/problems/single-number/)
 
+- Fri June 16th
+
+  - This meeting marks the end of our mini sprints/learning period 🎉
+  - Moving forward we will be working on completing the product
+  - We went over the final parts of the React-Native Auth lesson
+  - We scheduled a meeting with our Mentor Jeremy for Wed June 21st at 5:00 PM EST
+  - We discussed using the Harvard CS50 course as a resource for improving our Computer Science fundamentals
+
+    - [CS50_Data_Structures](https://www.youtube.com/watch?v=X8h4dq9Hzq8)
+    - [CS50_Algorithms](https://www.youtube.com/watch?v=4oqjcKenCH8)
+
+  - ### [Recording](https://drive.google.com/drive/u/2/folders/1oTKoW1Xvyc-RU_x86boOC4cKV34C85_z)
+
 ---
 
 # Resources
