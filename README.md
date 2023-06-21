@@ -214,13 +214,34 @@
     - [CS50_Data_Structures](https://www.youtube.com/watch?v=X8h4dq9Hzq8)
     - [CS50_Algorithms](https://www.youtube.com/watch?v=4oqjcKenCH8)
 
-  - ### [Recording](https://drive.google.com/drive/u/2/folders/1oTKoW1Xvyc-RU_x86boOC4cKV34C85_z)
+  - [Recording](https://drive.google.com/drive/u/2/folders/1oTKoW1Xvyc-RU_x86boOC4cKV34C85_z)
+
+- Mon June 19th
+
+  - Day off, Happy Juneteenth!
+
+- Wed June 21st
+
+  - Congrats for making it through onboarding, time to start coding!
+  - Next steps will be ERD and CHD
+
+    - we will be collaborating with the Data team to make ERD and use the UX/UI's wireframe for CHD
+
+  - I have created a Google calendar for the team, if you know you will be unavailable during a certain time period, add in a block in the calendar
+
+    - [calendar](https://calendar.google.com/calendar/u/2?cid=ZTE1MTgxZTg5YmJhNDhjZWJhYTkyYjAyN2JiYWQ1MzY3MDBhZTlhMDdlMjY3YmQzMzkzNzZiYmEwYjlhYjhkY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+  - communication is key, make sure you are in regular contact with the team
+  - We also went over the `Crypto` node package, which we will be using to encrypt user's personnal information
+  - [Recording](https://drive.google.com/drive/u/2/folders/1kspbJybrOJuRRziKxssh3crOhQOM3iOX)
 
 ---
 
 # Resources
 
 ---
+
+### [Calendar](https://calendar.google.com/calendar/u/2?cid=ZTE1MTgxZTg5YmJhNDhjZWJhYTkyYjAyN2JiYWQ1MzY3MDBhZTlhMDdlMjY3YmQzMzkzNzZiYmEwYjlhYjhkY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### [ZoomLink](https://us06web.zoom.us/j/4886078487)
 
