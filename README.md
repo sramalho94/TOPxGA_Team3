@@ -233,10 +233,10 @@
 
   - communication is key, make sure you are in regular contact with the team
   - We also went over the `Crypto` node package, which we will be using to encrypt user's personnal information
+  - We also had our first meeting with our Dev mentor Jeremy
 
-  ### - We also had our first meeting with our Dev mentor Jeremy
+    - [MentorRecording](https://drive.google.com/drive/u/2/folders/18mxpAqN7R4SBIZ8y_8BSynzVDm3Kg6kA)
 
-  - [MentorRecording](https://drive.google.com/drive/u/2/folders/18mxpAqN7R4SBIZ8y_8BSynzVDm3Kg6kA)
   - [Recording](https://drive.google.com/drive/u/2/folders/1kspbJybrOJuRRziKxssh3crOhQOM3iOX)
 
 ---
