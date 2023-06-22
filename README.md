@@ -40,7 +40,7 @@
 
 - Avi Patel
 
-  - email: avi.patel@hotmail.com
+  - email: avipatel95@gmail.com
   - github: patel-avi
 
 - Sarven Ornekian
