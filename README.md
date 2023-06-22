@@ -247,6 +247,8 @@
 
     - [Leetcode_599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 
+  - [Recording](https://drive.google.com/drive/u/2/folders/1GuC2QG15Kl70eHmkMi0st0F85vpU0_L8)
+
 ---
 
 # Resources
