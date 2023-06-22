@@ -239,6 +239,14 @@
 
   - [Recording](https://drive.google.com/drive/u/2/folders/1kspbJybrOJuRRziKxssh3crOhQOM3iOX)
 
+- Thurs June 22nd
+
+  - During this meeting, we practiced using hashTables to solve problems
+  - We went over a recent algorithm challenge I had to do as part of a take home assessment
+  - Lastly we went over this leetcode:
+
+    - [Leetcode_599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+
 ---
 
 # Resources
