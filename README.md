@@ -112,6 +112,57 @@
 
 #### Please reach out if you can't make the deadline
 
+### 2. Research Sprint
+
+### For this project we will be working in pairs to research what it will take to implement the features in our project.
+
+### Due Date: Wed June 28th we will be presenting
+
+### Deliverables:
+
+- We will be doing presentations on Wed June 28th during our regularly scheduled meeting
+- You should be able to discuss:
+
+  - specific steps that need to be taken with implementing a feature/package
+  - potential blockers that the team will face
+
+- We should be able to take what you tell us and use that as a guide to start coding the feature
+
+### Breakdown of Assignments:
+
+- Task 1: Implementing taking photos into fronted
+
+  - Sarven and Alex
+  - Find a package that will work with our project, both ios and android
+  - Come up with workflow for implementation
+  - List of potential blockers
+
+- Task 2: Storing images on our backend
+
+  - Ben and Anna
+  - we need to learn how to store images within our postgres sequelize database
+
+  - research alternative third party db’s to make this happen
+  - how do we set up keys within models that are images
+
+- Task 3: jira/ trello
+
+  - Kayisha and Anchi
+  - Analyze the pros and cons of both jira and trello
+  - If jira is too much work, make sure trello is able to handle all our requirements
+
+    - Clearly be able to delegate deliverables
+    - Be able to clearly set deadlines
+    - Be able to set up a backlog of tickets
+    - Organize blockers, organize extra help
+
+- Task 4: React-Native-Keychain
+
+  - Jeremy and Avi
+  - Look into the features of the React-Native-Keychain package
+  - Is there anything else it can do that will be useful for us?
+  - maybe we can incorporate ios keychain and android keychain
+
 ---
 
 ## Meeting Summaries
@@ -248,6 +299,12 @@
     - [Leetcode_599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 
   - [Recording](https://drive.google.com/drive/u/2/folders/1GuC2QG15Kl70eHmkMi0st0F85vpU0_L8)
+
+- Fri June 23rd
+
+  - We went over the UX/UI team's User Flow and presentation slides
+  - We assigned tasks for our initial research initiative, see above for details
+  - [Recording](https://drive.google.com/drive/u/2/folders/18Wl-FbG-jU0On-bCL5ohl9foApj4lvvT)
 
 ---
 
