@@ -124,6 +124,9 @@
 - You should be able to discuss:
 
   - specific steps that need to be taken with implementing a feature/package
+
+    - workflow for what files need to be created etc
+
   - potential blockers that the team will face
 
 - We should be able to take what you tell us and use that as a guide to start coding the feature
