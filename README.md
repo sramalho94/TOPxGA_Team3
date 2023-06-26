@@ -309,6 +309,11 @@
   - We assigned tasks for our initial research initiative, see above for details
   - [Recording](https://drive.google.com/drive/u/2/folders/18Wl-FbG-jU0On-bCL5ohl9foApj4lvvT)
 
+- Mon June 26th
+
+  - During this meeting we discussed our progress with the Research sprint
+  - [Recording](https://drive.google.com/drive/u/2/folders/1i3H-f45VpBSiArZbxNJJ8k7qLPWWI6jZ)
+
 ---
 
 # Resources
