@@ -314,6 +314,16 @@
   - During this meeting we discussed our progress with the Research sprint
   - [Recording](https://drive.google.com/drive/u/2/folders/1i3H-f45VpBSiArZbxNJJ8k7qLPWWI6jZ)
 
+- Wed June 28th
+
+  - During this meeting we presented our findings from our Research Sprint
+  - We created the ERD for our back-end
+    - [ERD](https://drive.google.com/file/d/1S4W7f9k0XQPsz0ESAuJQpppJdNAu8yoX/view?usp=sharing)
+  - Groups 3 and 4 will continue their research, and do an additional presentation on Friday
+    - Anna will be joining group 4
+  - Additionally, on Friday we will be discussing our first backend sprint
+  - [Recording](https://drive.google.com/drive/u/2/folders/1vofqJzBZnUuI3-BwCetJTgW4ELDKD4e4)
+
 ---
 
 # Resources
