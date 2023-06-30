@@ -112,6 +112,8 @@
 
 #### Please reach out if you can't make the deadline
 
+---
+
 ### 2. Research Sprint
 
 ### For this project we will be working in pairs to research what it will take to implement the features in our project.
@@ -165,6 +167,61 @@
   - Look into the features of the React-Native-Keychain package
   - Is there anything else it can do that will be useful for us?
   - maybe we can incorporate ios keychain and android keychain
+
+---
+
+## Sprint 3 - Backend
+
+### During this sprint we will be building out our backend
+
+- Team 1: User
+
+  - Alex
+  - Jeremy
+  - Kai
+  - Anchi
+
+- Team 2: Test
+
+  - Ben
+  - Anna
+  - Sarven
+  - Avi
+
+## Milestones and deliverables
+
+- Milestone 1: Model completion - EOD Mon July 3rd
+
+  - you should have a completed model and migration file for the entity you're working on
+  - the following keys should be encrypted using Crypto:
+
+    - firstName, gender, race, ethnicity, state, zip
+    - password should be encrypted using the Bcrypt passage
+
+  - associations between the models must be completed
+
+- Milestone 2: Controllers and Routes - EOD Wed July 5th
+
+  - full CRUD operations on your model with associated routes
+
+    - create, getAll, getById, update, delete
+    - make sure that the data we are returning is not encrypted and usable
+
+  - we'll discuss best practice for route syntax on Monday
+
+- Milestone 3: Jest Test - EOD Fri July 7th
+
+  - complete the tests for the controllers/routes you've created
+  - refer to the Jest_Auth testing repo/code along if you need a refresher on Jest
+  - all tests should pass
+
+### I'll make myself as available as possible throughtout the week so please do not hesitate to reach out if you can't overcome a blocker
+
+### Our first Office Hours day will be on Sun July 2nd. The zoom will open at 10 AM EST
+
+### If you'd like the zoom any other time let me know and I'll make you cohost
+
+### I know we're gonna crush this Sprint, excited to get cracking!! 💪
 
 ---
 
@@ -323,6 +380,12 @@
     - Anna will be joining group 4
   - Additionally, on Friday we will be discussing our first backend sprint
   - [Recording](https://drive.google.com/drive/u/2/folders/1vofqJzBZnUuI3-BwCetJTgW4ELDKD4e4)
+
+- Fri June 30th
+
+  - During this meeting, Groups 3 and 4 presented on their extended research
+  - We discussed our Backend Sprint, the details of which cant be found under the 'Sprints' section of this file
+  - [Recording](https://drive.google.com/drive/u/2/folders/1uDUgtemV6KjojjSMrWcpFlfdqC9uC5ad)
 
 ---
 
