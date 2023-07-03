@@ -387,6 +387,13 @@
   - We discussed our Backend Sprint, the details of which cant be found under the 'Sprints' section of this file
   - [Recording](https://drive.google.com/drive/u/2/folders/1uDUgtemV6KjojjSMrWcpFlfdqC9uC5ad)
 
+- Sun July 2nd
+
+  - This was our first open zoom for our backend sprint
+  - we discussed initial setup to ensure you can run the project locally
+  - We reached our first sprint milestone a day ahead of schedule!!! 🎆
+  - [Recording](https://drive.google.com/drive/u/2/folders/1kGerKoB23RMwSdNEJqPvQrEWRTGr17Bb)
+
 ---
 
 # Resources
