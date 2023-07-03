@@ -196,7 +196,7 @@
   - the following keys should be encrypted using Crypto:
 
     - firstName, gender, race, ethnicity, state, zip
-    - password should be encrypted using the Bcrypt passage
+    - password should be encrypted using the Bcrypt package
 
   - associations between the models must be completed
 
