@@ -394,6 +394,12 @@
   - We reached our first sprint milestone a day ahead of schedule!!! 🎆
   - [Recording](https://drive.google.com/drive/u/2/folders/1kGerKoB23RMwSdNEJqPvQrEWRTGr17Bb)
 
+- Mon July 3rd
+
+  - We continued our backend sprint
+  - we reached our second sprint milestone
+  - [Recording](https://drive.google.com/drive/u/2/folders/1ohVXer0Ya_SC_obMnzT-Zf3OmDEaXc0V)
+
 ---
 
 # Resources
