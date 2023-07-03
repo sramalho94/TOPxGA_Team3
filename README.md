@@ -190,7 +190,7 @@
 
 ## Milestones and deliverables
 
-- Milestone 1: Model completion - EOD Mon July 3rd
+- ✅ Milestone 1: Model completion - EOD Mon July 3rd
 
   - you should have a completed model and migration file for the entity you're working on
   - the following keys should be encrypted using Crypto:
