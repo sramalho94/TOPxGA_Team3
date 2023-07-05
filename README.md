@@ -400,6 +400,12 @@
   - we reached our second sprint milestone
   - [Recording](https://drive.google.com/drive/u/2/folders/1ohVXer0Ya_SC_obMnzT-Zf3OmDEaXc0V)
 
+- Wed July 5th
+
+  - We reached our final milestone 2 days ahead of time!
+  - Come prepared on Friday to discuss what you like/didn't like about our sprint
+  - [Recording](https://drive.google.com/drive/u/2/folders/1_G846NKrzw2nUfIkiM09Kkug7FOwy7NU)
+
 ---
 
 # Resources
