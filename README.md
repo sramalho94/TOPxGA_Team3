@@ -406,6 +406,15 @@
   - Come prepared on Friday to discuss what you like/didn't like about our sprint
   - [Recording](https://drive.google.com/drive/u/2/folders/1_G846NKrzw2nUfIkiM09Kkug7FOwy7NU)
 
+- Thurs July 7th
+
+  - We tackled a medium level leetcode
+
+    - [318](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
+
+  - We discussed using Chat GPT for sending job applications
+  - [Recording](https://drive.google.com/drive/u/2/folders/143l0Pf6Ly9ohYvuo0rbIdx_XnRNV_Rgq)
+
 ---
 
 # Resources
