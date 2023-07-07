@@ -415,6 +415,16 @@
   - We discussed using Chat GPT for sending job applications
   - [Recording](https://drive.google.com/drive/u/2/folders/143l0Pf6Ly9ohYvuo0rbIdx_XnRNV_Rgq)
 
+- Fri July 8th
+
+  - Today was our retrospective meeting for our backend sprint
+  - We discussed what worked/what needs to be improved for our next sprint
+  - We went over the workflow for Github actions
+
+    - [ChatGPT_Transcript](https://docs.google.com/document/d/1YaR5p7O8NdLifb0hW328KZg4RkIZODTfvOLuM3kB61I/edit?usp=sharing)
+
+  - [Recording](https://drive.google.com/drive/u/2/folders/1ED-01YLfsjhzy_rGE5WiBFdU8owp_Hjh)
+
 ---
 
 # Resources
