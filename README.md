@@ -200,7 +200,7 @@
 
   - associations between the models must be completed
 
-- Milestone 2: Controllers and Routes - EOD Wed July 5th
+- ✅ Milestone 2: Controllers and Routes - EOD Wed July 5th
 
   - full CRUD operations on your model with associated routes
 
@@ -209,7 +209,7 @@
 
   - we'll discuss best practice for route syntax on Monday
 
-- Milestone 3: Jest Test - EOD Fri July 7th
+- ✅ Milestone 3: Jest Test - EOD Fri July 7th
 
   - complete the tests for the controllers/routes you've created
   - refer to the Jest_Auth testing repo/code along if you need a refresher on Jest
@@ -222,6 +222,40 @@
 ### If you'd like the zoom any other time let me know and I'll make you cohost
 
 ### I know we're gonna crush this Sprint, excited to get cracking!! 💪
+
+---
+
+## Sprint 4 - frontend
+
+---
+
+### For this Sprint we'll be building out our frontend
+
+### Teams:
+
+- 1: Jeremy, Alex, Kayisha
+- 2: Avi, Ben
+- 3: Anchi, Sarven
+- 4: Anna, Stephan
+
+### Milestones:
+
+### 1: Screen Wireframes
+
+### Deadline: Wed July 12th EOD
+
+    - complete a basic wireframe of your assigned screens
+    - they don't have to be functional
+    - try your best to recreate the wireframs as accurately as possible
+
+### 2: Components
+
+### Deadline: Mon July 17th EOD
+
+    - complete your assigned component
+    - import your component into the screen its used on
+    - refactor the screen so that it works with the component
+    - [CriteriaBreakdown](https://docs.google.com/document/d/1fDOilplcYZ1oeh9IoSM2ym4mA61UOcDo9VGAW90ScUc/edit)
 
 ---
 
