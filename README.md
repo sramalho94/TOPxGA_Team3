@@ -242,20 +242,20 @@
 
 ### 1: Screen Wireframes
 
-Deadline: Wed July 12th EOD
+- Deadline: Wed July 12th EOD
 
-    - complete a basic wireframe of your assigned screens
-    - they don't have to be functional
-    - try your best to recreate the wireframs as accurately as possible
+  - complete a basic wireframe of your assigned screens
+  - they don't have to be functional
+  - try your best to recreate the wireframs as accurately as possible
 
 ### 2: Components
 
-Deadline: Mon July 17th EOD
+- Deadline: Mon July 17th EOD
 
-    - complete your assigned component
-    - import your component into the screen its used on
-    - refactor the screen so that it works with the component
-    - [CriteriaBreakdown](https://docs.google.com/document/d/1fDOilplcYZ1oeh9IoSM2ym4mA61UOcDo9VGAW90ScUc/edit)
+  - complete your assigned component
+  - import your component into the screen its used on
+  - refactor the screen so that it works with the component
+  - [CriteriaBreakdown](https://docs.google.com/document/d/1fDOilplcYZ1oeh9IoSM2ym4mA61UOcDo9VGAW90ScUc/edit)
 
 ---
 
