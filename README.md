@@ -242,7 +242,7 @@
 
 ### 1: Screen Wireframes
 
-### Deadline: Wed July 12th EOD
+Deadline: Wed July 12th EOD
 
     - complete a basic wireframe of your assigned screens
     - they don't have to be functional
@@ -250,7 +250,7 @@
 
 ### 2: Components
 
-### Deadline: Mon July 17th EOD
+Deadline: Mon July 17th EOD
 
     - complete your assigned component
     - import your component into the screen its used on
