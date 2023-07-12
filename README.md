@@ -425,6 +425,19 @@
 
   - [Recording](https://drive.google.com/drive/u/2/folders/1ED-01YLfsjhzy_rGE5WiBFdU8owp_Hjh)
 
+- Mon July 10th
+
+  - During this meeting we discussed our frontend sprint
+  - the criteria for the first milestone was discussed
+  - [Recording](https://drive.google.com/drive/u/2/folders/1mxNx1eHYlbvVPu6IDFRTPqKuXBsfFNNF)
+
+- Wed July 12th
+
+  - During this meeting we discussed how the team is doing for the first milestone
+  - We discussed the criteria for the second milestone
+  - [MilestoneCriteria](https://docs.google.com/document/d/1fDOilplcYZ1oeh9IoSM2ym4mA61UOcDo9VGAW90ScUc/edit)
+  - [Recording](https://drive.google.com/drive/u/2/folders/1AkOaK9sPgYnSz4yxc9zgUCpzvfieacCI)
+
 ---
 
 # Resources
