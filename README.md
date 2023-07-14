@@ -510,6 +510,17 @@
   - [MilestoneCriteria](https://docs.google.com/document/d/1fDOilplcYZ1oeh9IoSM2ym4mA61UOcDo9VGAW90ScUc/edit)
   - [Recording](https://drive.google.com/drive/u/2/folders/1AkOaK9sPgYnSz4yxc9zgUCpzvfieacCI)
 
+- Fri July 14th
+
+  - During this meeting we discussed changes to workflow and PR guidelines
+  - See the Workflow and PR Guideline section for the Frontend Sprint for more info
+  - [WordDocWorkflowPR](https://docs.google.com/document/d/1OlAgF0Sq6xMK_7qLxnLWClOqLYc5OgWPbczYbdpOy-I/edit?usp=sharing)
+  - We discussed resetting the ios pods and android build
+
+    - [ChatGPTConvo](https://chat.openai.com/share/82c56f1c-bd0a-45a2-8bf6-d7b1473d47ba)
+
+  - [Recording](https://drive.google.com/drive/u/2/folders/1rU9e_zqwNahRPKcxMYdFrdjNJre5Er3e)
+
 ---
 
 # Resources
