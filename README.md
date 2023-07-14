@@ -238,6 +238,44 @@
 - 3: Anchi, Sarven
 - 4: Anna, Stephan
 
+### Workflow and PR Guidelines
+
+### Git Workflow
+
+- Please reach out to me if you need to install a dependency
+- Always work on your own branch
+- Download OhmyZsh if you haven’t
+- Regularly go back to main and pull from the code base, to ensure you are up to date
+- If a new dependency has been added on main and you don’t have it on the branch you’re working on, using the following workflow:
+  - Commit or stash any changes
+  - Switch to the main branch
+  - Pull the newest code from GitHub
+  - Switch back to your branch
+  - Run `git merge main`
+  - Handle any conflicts
+  - Run `yarn install` to install the new dependencies
+  - If you used `git stash` on the first step run `git stash pop`
+- After pulling from main, go back to the branch you’re working on and run `git merge`
+  - If you get a merge conflict, solve it locally on your branch before pushing the code
+  - Reach out if you’re uncertain how to fix the merge
+- Please also regularly push your branch to GitHub to ensure it is available to the rest of the team
+- Once you have completed your milestone you can open a pull request
+
+### Pull Request Guidelines
+
+- Before you open your pull request make sure:
+
+  - Someone else besides you has reviewed your code
+  - Your work has comments that explain the code
+  - There is no erroneous commented out code
+  - Your branch does not have a package-lock file
+
+- Pull Request Comment
+  - Include in the comment for the pull request the following information:
+    1. Any new files you created and a general overview of their purpose (1-2 sentences max per file/dir)
+    2. Any new dependencies that were installed
+    3. Your team and milestone
+
 ### Milestones:
 
 ### 1: Screen Wireframes
