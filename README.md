@@ -263,6 +263,7 @@
 
 ### Pull Request Guidelines
 
+- All pull requests should be made to the dev branch
 - Before you open your pull request make sure:
 
   - Someone else besides you has reviewed your code
@@ -520,6 +521,13 @@
     - [ChatGPTConvo](https://chat.openai.com/share/82c56f1c-bd0a-45a2-8bf6-d7b1473d47ba)
 
   - [Recording](https://drive.google.com/drive/u/2/folders/1rU9e_zqwNahRPKcxMYdFrdjNJre5Er3e)
+
+- Mon July 17th
+
+  - During this meeting we discussed the next round of tasks for our next sprint
+  - We discussed using the Dev branch as a buffer between our branches and main
+  - [Recording1](https://drive.google.com/drive/u/1/folders/1bkmlNNfSzwYXp4Kfdac-WXj9DlIfEmuq)
+  - [Recording2](https://drive.google.com/drive/u/1/folders/1cY6C-dEm6oTjyxhZAGHZ65QLgV_jZtwd)
 
 ---
 
