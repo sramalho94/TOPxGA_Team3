@@ -529,6 +529,12 @@
   - [Recording1](https://drive.google.com/drive/u/1/folders/1bkmlNNfSzwYXp4Kfdac-WXj9DlIfEmuq)
   - [Recording2](https://drive.google.com/drive/u/1/folders/1cY6C-dEm6oTjyxhZAGHZ65QLgV_jZtwd)
 
+- Wed July 19th
+
+  - We discussed changes to the code base, specifically the github actions file that will check to see there's a package-lock file in your branch
+  - We assigned new tasks for our next Sprint
+  - [Recording](https://drive.google.com/drive/u/1/folders/1cmbGq6iXQ7lpRD8-l1e1RKiR7zm_izPp)
+
 ---
 
 # Resources
