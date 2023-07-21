@@ -535,6 +535,13 @@
   - We assigned new tasks for our next Sprint
   - [Recording](https://drive.google.com/drive/u/1/folders/1cmbGq6iXQ7lpRD8-l1e1RKiR7zm_izPp)
 
+- Fri July 21st
+
+  - During this retrospective meeting we reviewed all the screens that have been created
+  - Based on the bugs that we noticed, we assigned deliverables for our Bug Fix mini sprint
+  - the deadline for the deliverables for this sprint will be Tuesday july 25th EOD
+  - [Recording](https://drive.google.com/drive/u/1/folders/1gx6xwiU3sjjoq0wiGAzqEP_DsaXdin_5)
+
 ---
 
 # Resources
