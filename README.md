@@ -302,11 +302,11 @@
 
 ---
 
-### During this Sprint, we'll be fixing frontend bugs before we move on to the Functionality Milestone
+During this Sprint, we'll be fixing frontend bugs before we move on to the Functionality Milestone
 
-### Please see the Trello for assigned deliverables
+Please see the Trello for assigned deliverables
 
-### Deadline: Tues July 25th EOD
+#### Deadline: Tues July 25th EOD
 
 ---
 
