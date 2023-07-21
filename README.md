@@ -298,6 +298,18 @@
 
 ---
 
+## Sprint 5 - Bug Fix Mini Sprint
+
+---
+
+### During this Sprint, we'll be fixing frontend bugs before we move on to the Functionality Milestone
+
+### Please see the Trello for assigned deliverables
+
+### Deadline: Tues July 25th EOD
+
+---
+
 ## Meeting Summaries
 
 ---
