@@ -554,11 +554,19 @@ Please see the Trello for assigned deliverables
   - the deadline for the deliverables for this sprint will be Tuesday july 25th EOD
   - [Recording](https://drive.google.com/drive/u/1/folders/1gx6xwiU3sjjoq0wiGAzqEP_DsaXdin_5)
 
-- Mon July 23rd
+- Mon July 24rd
 
   - During this meeting we discussed the next deliverables
   - we went over the questions for the UX/UI team
   - [Recording](https://drive.google.com/drive/u/1/folders/1r04hys3CJ8yeoHZOam6QBtp5o-uXtkuR)
+
+- Wed July 26th
+
+  - During this meeting we gave assigned the next round of deliverables
+  - We decided to start our functionality sprint on friday, to finish working on our
+    current deliverables
+  - we went over some of the UX/UI team's answers to our questions and discussed the new questions for the UX/UI team
+  - [Recording](https://drive.google.com/drive/u/1/folders/1NXLRpFd0ia46ROljwpLf2mgISVDBIvoi)
 
 ---
 
