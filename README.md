@@ -554,6 +554,12 @@ Please see the Trello for assigned deliverables
   - the deadline for the deliverables for this sprint will be Tuesday july 25th EOD
   - [Recording](https://drive.google.com/drive/u/1/folders/1gx6xwiU3sjjoq0wiGAzqEP_DsaXdin_5)
 
+- Mon July 23rd
+
+  - During this meeting we discussed the next deliverables
+  - we went over the questions for the UX/UI team
+  - [Recording](https://drive.google.com/drive/u/1/folders/1r04hys3CJ8yeoHZOam6QBtp5o-uXtkuR)
+
 ---
 
 # Resources
