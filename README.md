@@ -310,6 +310,19 @@ Please see the Trello for assigned deliverables
 
 ---
 
+## Sprint 6 - Functionality Sprint
+
+---
+
+### Teams
+
+1. [ 'Ben', 'Anna' ],
+2. [ 'Anchi', 'Kayisha' ],
+3. [ 'Alex', 'Sarven' ],
+4. [ 'Avi', 'Jeremy' ]
+
+---
+
 ## Meeting Summaries
 
 ---
