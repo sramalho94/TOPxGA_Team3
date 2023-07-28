@@ -581,6 +581,16 @@ Please see the Trello for assigned deliverables
   - we went over some of the UX/UI team's answers to our questions and discussed the new questions for the UX/UI team
   - [Recording](https://drive.google.com/drive/u/1/folders/1NXLRpFd0ia46ROljwpLf2mgISVDBIvoi)
 
+- Fri July 28th
+
+  - Friday means Retrospection, so we caught a few bugs that need to be fixed on backend
+  - We went over everything that needs to be fixed about CreateAccount, please refer to the trello card for details
+  - There are some cards that need to be finished but don't have anyone assigned to them, please visit the trello and take one of the cards if you're available over the weekend but don't have a task
+
+    - just post on the slack channel that you're taking the card and add your name to it on trello
+
+  - [Recording](https://drive.google.com/drive/u/1/folders/1m03lgo17sBMF3OMxbCGA9LJGjLnWYKR-)
+
 ---
 
 # Resources
