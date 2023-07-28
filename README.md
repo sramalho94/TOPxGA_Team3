@@ -590,6 +590,7 @@ Please see the Trello for assigned deliverables
     - just post on the slack channel that you're taking the card and add your name to it on trello
 
   - [Recording](https://drive.google.com/drive/u/1/folders/1m03lgo17sBMF3OMxbCGA9LJGjLnWYKR-)
+  - [ChatGptMigrationsConvo](https://chat.openai.com/share/a44a4476-a1a8-4d4e-b9e3-f1bdfb091140)
 
 ---
 
