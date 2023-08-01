@@ -593,6 +593,16 @@ Please see the Trello for assigned deliverables
   - [ChatGptMigrationsConvo](https://chat.openai.com/share/a44a4476-a1a8-4d4e-b9e3-f1bdfb091140)
   - [MigrationExample](https://github.com/sramalho94/PokePro/blob/main/migrations/20221213140821-add_sprite_to_trainer.js)
 
+- Mon July 31st
+
+  - During this meeting we delegated tasks for our functionality sprint
+  - [Recording](https://drive.google.com/drive/u/1/folders/1Nm19xhjI3stHgvi2j8B0vwN4tibq562I)
+
+- Tues Aug 1st
+
+  - During this meeting we went through the methods in ApiService.tsx and also the changes to AuthContext
+  - [Recording](https://drive.google.com/drive/u/1/folders/1FdxhQXDehWLq60Znh88j2JNT91iuA0El)
+
 ---
 
 # Resources
