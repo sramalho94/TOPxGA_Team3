@@ -603,6 +603,13 @@ Please see the Trello for assigned deliverables
   - During this meeting we went through the methods in ApiService.tsx and also the changes to AuthContext
   - [Recording](https://drive.google.com/drive/u/1/folders/1FdxhQXDehWLq60Znh88j2JNT91iuA0El)
 
+- Wed Aug 2nd
+
+  - During this meeting we went over the changes to the dev branch
+  - We went over how to login and create a token through our frontend
+  - We also assigned new tasks and discussed how the teams are doing with their current assignments
+  - [Recording](https://drive.google.com/drive/u/1/folders/1snMhZqc-XCHumxEsplnEadwbo_qeu8Ez)
+
 ---
 
 # Resources
