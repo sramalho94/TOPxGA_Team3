@@ -608,6 +608,11 @@ Please see the Trello for assigned deliverables
   - During this meeting we went over the changes to the dev branch
   - We went over how to login and create a token through our frontend
   - We also assigned new tasks and discussed how the teams are doing with their current assignments
+  - to create an account, using Insomnia:
+
+    - send a POST request to `http://localhost:3001/api/auth/register`
+    - enter values for the keys necessary to create a user
+
   - [Recording](https://drive.google.com/drive/u/1/folders/1snMhZqc-XCHumxEsplnEadwbo_qeu8Ez)
 
 ---
