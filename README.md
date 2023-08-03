@@ -601,7 +601,7 @@ Please see the Trello for assigned deliverables
 - Tues Aug 1st
 
   - During this meeting we went through the methods in ApiService.tsx and also the changes to AuthContext
-  - [Recording](https://drive.google.com/drive/u/1/folders/1FdxhQXDehWLq60Znh88j2JNT91iuA0El)
+  - [Recording](https://drive.google.com/drive/u/1/folders/10lwjQecxIzk7jQH9ed30yqVn_-_aB6Zy)
 
 - Wed Aug 2nd
 
