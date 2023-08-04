@@ -615,6 +615,13 @@ Please see the Trello for assigned deliverables
 
   - [Recording](https://drive.google.com/drive/u/1/folders/1snMhZqc-XCHumxEsplnEadwbo_qeu8Ez)
 
+- Fri Aug 4th
+
+  - We went over the changes to the code base, both frontend and backend
+  - We assigned new tasks for over the weekend
+  - We went over the high fidelity wireframes
+  - [Recording](https://drive.google.com/drive/u/1/folders/1hnMICNGDci222Mm9ltO0KaeHFEwh3Rn3)
+
 ---
 
 # Resources
